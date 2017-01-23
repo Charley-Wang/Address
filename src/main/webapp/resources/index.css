@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+.blue-color {
+	background: -webkit-linear-gradient(rgb(54, 162, 202), rgb(50, 180, 185));
+    background:      -o-linear-gradient(rgb(54, 162, 202), rgb(50, 180, 185));
+    background:    -moz-linear-gradient(rgb(54, 162, 202), rgb(50, 180, 185));
+    background:         linear-gradient(rgb(54, 162, 202), rgb(50, 180, 185));
+}
+
+.yellow-color {
+	background: rgba(242, 227, 46, 0.5);
+}
+
+.red-color {
+	background: rgb(237, 117, 93);
+}
+
+.topTitleID {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+footer {
+	background: rgb(47, 47, 47);
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 6;
+}
+
+#canvasID {
+	text-align: center;
+}
+
+.instruct {
+	color: white;
+	text-align: left;
+	padding-top: 40px;
+}
+
+.padi {
+	padding-left: 10px;
+}
